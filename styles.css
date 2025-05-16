@@ -5,7 +5,7 @@
     --laranja-claro: #5ab7f5;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: bwb(210 75% 0%)
+    --alto-contraste-link:var(--laranja-claro)
 }
 
 body {
