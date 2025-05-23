@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #5ab7f5;
+    --laranja-claro: #85372d;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link:var(--laranja-claro)
+    --alto-contraste-texto: #7c3329;
+    --alto-contraste-link: #green;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #4389cb;
+    color: hwb(0 33% 33%)5% 0%)5% 0%);
     font-weight: 600;
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #daf4ff 85% 0%);
+    background-color: #c6edff 85% 0%);
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: rgb(9, 153, 236)
+    background-color: rgb(192, 160, 141)
     border: none;
     font-weight: bold;
 }
