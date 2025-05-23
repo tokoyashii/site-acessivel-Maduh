@@ -5,7 +5,7 @@
     --laranja-claro: #85372d;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #7c3329;
-    --alto-contraste-link: #green;
+    --alto-contraste-link:var(--laranja-claro)
 }
 
 body {
